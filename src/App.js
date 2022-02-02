@@ -2,6 +2,15 @@ import './App.css'
 
 function App() {
   return <div className='App'>
+
+    <div className="grid_container">
+      <div className="sidebar">
+          slidebar
+      </div>
+      <div className="main">
+
+      </div>
+    </div>
     {/*  react, materiel ui, react-html2pdf  */}
     {/*  varaibles css */}
     {/*  colonnes de gauche */}
