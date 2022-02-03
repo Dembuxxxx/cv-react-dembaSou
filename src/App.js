@@ -1,15 +1,13 @@
 import './App.css'
+import User from './components/user'
 
 function App() {
   return <div className='App'>
-
     <div className="grid_container">
       <div className="sidebar">
-          slidebar
+        <User />
       </div>
-      <div className="main">
-
-      </div>
+      <div className="main">main</div>
     </div>
     {/*  react, materiel ui, react-html2pdf  */}
     {/*  varaibles css */}
